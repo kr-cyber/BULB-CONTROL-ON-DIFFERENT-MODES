@@ -2,7 +2,7 @@
  #KPIT SPARKLE 2021 PROJECT
 
 Sir/Madam,
- This project is about BULB CONTOL in different modes.
- NAME: K.R.Bharath.
- SPARKLE ID: SP21C004326.
+This project is about BULB CONTOL in different modes.
+NAME: K.R.Bharath.
+SPARKLE ID: SP21C004326.
  
